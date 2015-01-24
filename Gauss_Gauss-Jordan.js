@@ -1,4 +1,4 @@
-*	Global Variables:
+/*	Global Variables:
 
 x= x Matrix 
 numSources= Number of sources
