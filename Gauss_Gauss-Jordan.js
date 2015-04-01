@@ -5,6 +5,8 @@ numSources= Number of sources
 numDest= Number of destinations
 */
 
+// CHECKOUT FUNCTIONALITY
+
 /*
 	function: calculate_U_V
 	Description: 
